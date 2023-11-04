@@ -1,0 +1,34 @@
+body{
+    background-color: lightblue;
+}
+main{
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+form{
+    margin-top: 40px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.d-grid{
+    margin-top: 50px;
+}
+
+.message{
+    margin-top: 20px;
+    text-align: center;
+}
+li{
+    list-style: none;
+    color: rgb(235, 152, 196);
+}
+
+.btn{
+    height: 50px;
+    font-size: 1.3em;
+}
