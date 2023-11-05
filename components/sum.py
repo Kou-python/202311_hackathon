@@ -2,7 +2,7 @@ import openai
 import re
 
 # OpenAI APIキーを設定
-openai.api_key = "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"
+openai.api_key = ""
 
 
 # 入力されたテキストを要約する関数
